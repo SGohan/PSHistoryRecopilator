@@ -6,8 +6,8 @@ PSHistoryRecopilator is a powerhell history recopilator for all system users
 Have to compile PSrecop.go and execute it. Or run it without compilation.
 
 ```go build PSrecop.go```
-```main.exe```
-\n```go run PSrecop.go```
+```main.exe```<br>
+```go run PSrecop.go```
 
 Also you can download the release builded.
 
